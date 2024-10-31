@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095116099195",
+    "project_id": "ticketmaster-d5f0b",
+    "storage_bucket": "ticketmaster-d5f0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095116099195:android:d58a5e3e96b8ee8af39cde",
+        "android_client_info": {
+          "package_name": "com.zeenova.ticketmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhfFLJqr1r_oFgB0RU8aLVCTPn-hV4ZAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

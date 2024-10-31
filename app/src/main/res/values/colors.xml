@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="ticketmaster_color">#026CDF</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="ace_white">#AEB7B2B2</color>
+    <color name="grey">#AEB7B2B2</color>
+    <color name="ace_white2">#E1E1E2</color>
+    <color name="boltgreen">#02996A</color>
+    <color name="backgroundColor">#FFFF</color>
+    <color name="notBlack">#434141</color>
+    <color name="advertblue">#120A8F</color>
+    <color name="accountGreen">#80DEEA</color>
+    <color name="obo_color">#0B08A0</color>
+    <color name="tr_color">#99FBFBFB</color>
+    <color name="p400">#7E57C2</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
